@@ -16,7 +16,7 @@ buildscript {
 
     android {
         compileSdkVersion 17
-        buildToolsVersion "19.0.3"
+        buildToolsVersion "20.0.0"
         sourceSets {
             main {
                 manifest.srcFile 'AndroidManifest.xml'
